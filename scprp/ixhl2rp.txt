@@ -1,0 +1,8 @@
+"scprp"
+{
+	"base"		"helix"
+	"title"		"SCPRP"
+	"author"	"nebulous.cloud"
+	"category"	"rp"
+	"menusystem" "1"
+}
